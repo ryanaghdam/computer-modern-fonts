@@ -1,0 +1,12 @@
+{
+  "name": "computer-modern-fonts",
+  "version": "1.0.0",
+  "description": "Computer Modern fonts for the web",
+  "keywords": [
+    "computer",
+    "modern",
+    "computer-modern"
+    "fonts"
+  ],
+  "license": "MIT"
+}
